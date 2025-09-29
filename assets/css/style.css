@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*  */
+/* Typography */
+/*  */
+
+
+
+body {
+  font-family: "Arial", sans-serif;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold;
+}
+
+/*  */
+/* Variables */
+/*  */
+:root {
+  --stdSmall: 1rem;
+  --stdMedium: 2rem;
+  --stdLarge: 3rem;
+}
+
+/*  */
+/* Utility Classes */
+/*  */
+.flex {
+  display: flex;
+}
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*  */
+/* My Styling */
+/*  */
+
+/* Header / Nav */
+/* Main / Article / Aside */
+/* Footer */
+
+/* 
+* Important information is higlighted
+! Deprecated method, do not use
+TODO
+?
+
+FIXME: This is a problem
+*/
